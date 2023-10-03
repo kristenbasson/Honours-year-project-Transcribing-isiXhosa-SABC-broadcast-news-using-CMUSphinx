@@ -5,3 +5,5 @@ IMPORTANT: Both these programs use a folder with wav files in to transcribe, so 
 Please change the paths of the models and input and output folder and file before using, otherwise you will get errors.
 
 The models folder contains all the models needed for Sphinx4 and Pocketsphinx to work.
+
+I have not added my code I used for the experiments or segmentation and preprocessing of data only the scripts to transcribe isiXhosa speech.
