@@ -1,0 +1,5 @@
+This models folder contains the models used in the transcribe.py in experiments folder and isiXhosaTranscriber in Sphinx4 folder.
+
+isixhosa.cd_cont_200 is the acoustic models
+isixhosa.dic is the phonetic dictionary
+isixhosa.lm.bin is the language model
