@@ -7,3 +7,4 @@ Please change the paths of the models and input and output folder and file befor
 The models folder contains all the models needed for Sphinx4 and Pocketsphinx to work.
 
 I have not added my code I used for the experiments or segmentation and preprocessing of data only the scripts to transcribe isiXhosa speech.
+From my experiments it was clear that both Sphinx4 and Pocketsphinx for my models only works on seen data and cannot generalise for unseen data. Therefore this code will work on all the words present in the dictionary but not on words that aren't present.
